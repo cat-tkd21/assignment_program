@@ -1,3 +1,4 @@
+# coding: utf-8
 letters = ""
 print("---計算式を半角で入力してください---")
 print("例） 3+4*5 ")
